@@ -1,3 +1,9 @@
+PARA QUE LA APLICACION FUNCIONE:
+DESCARGA EL ARCHIVO Y ÁBRELO EN VSC
+CREA UNA TERMINAL Y TECLEA NPM INSTALL
+UNA VEZ INSTALADO TECLEA NPM START
+
+
 # Pokedex
 Este es nuestro trabajo final de programación de interfaces web.
 Hemos decidido diseñar lo más parecido a una Pokedex, que está inspirado en uno de los juegos de Pokemon.
