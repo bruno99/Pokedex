@@ -30,5 +30,5 @@ Hemos utilizado la API https://pokeapi.co/ para este proyecto.
 
 -Para la primera generación (1-151) hemos descargado unos fondos de pantalla para cada uno de los Pokemons con su imagen minimalista respectivamente. En caso de que el Pokemon no tenga un fondo de pantalla, se pondrá el de Pikachu de forma predeterminada.
 
-## Video de prueba
+## Video para mostrar las funcionalidades
 https://user-images.githubusercontent.com/43136555/120624941-793f5e80-c461-11eb-995c-d396ef5919c5.mp4
