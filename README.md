@@ -20,9 +20,9 @@ Hemos utilizado la API https://pokeapi.co/ para este proyecto.
 
 -Puede mostrar la imagen del Pokemon de espaldas.
 
--Muestra las estadísticas del Pokemon (peso y altura) en unidades americanas ya que están sacadas de la api.
+-Muestra las estadísticas del Pokemon como es el peso y la altura (en unidades americanas ya que están sacadas de la api).
 
--Muestra el tipo o tipos del Pokemon, y si pones el cursos sobre el tipo te muestra contra qué tipos es fuerte, débil o inmune. Cada tipo tiene su color correspondiente.
+-Muestra el tipo o tipos del Pokemon, y si pones el cursor sobre el tipo te muestra contra qué tipos es fuerte, débil o inmune. Cada tipo tiene su color correspondiente.
 
 -También muestra las estadísticas del Pokemon en combate (hp, velocidad, ataque...) y si supera el valor 100 se pone en negrita, ya que es destacable.
 
