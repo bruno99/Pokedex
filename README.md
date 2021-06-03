@@ -26,7 +26,7 @@ Hemos utilizado la API https://pokeapi.co/ para este proyecto.
 
 -También muestra las estadísticas del Pokemon en combate (hp, velocidad, ataque...) y si supera el valor 100 se pone en negrita, ya que es destacable.
 
--Nos muestra las evoluciones del Pokemon seleccionado en caso de tenerlas, y puedes hacerles click y te llevará a ese Pokemon en cuestión. 
+-Nos muestra las evoluciones del Pokemon seleccionado en caso de tenerlas, y puedes hacerles click y te llevará al Pokemon en cuestión. 
 
 -Para la primera generación (1-151) hemos descargado unos fondos de pantalla para cada uno de los Pokemons con su imagen minimalista respectivamente. En caso de que el Pokemon no tenga un fondo de pantalla, se pondrá el de Pikachu de forma predeterminada.
 
