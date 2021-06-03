@@ -14,7 +14,7 @@ Hemos utilizado la API https://pokeapi.co/ para este proyecto.
 
 -Muestra el nombre, número y foto del Pokemon seleccionado.
 
--Puede mostrar la imagen del Pokemon en versión hembra (si es que existe como por ejemplo Pikachu (número 25), en caso contrario rebota).
+-Puede mostrar la imagen del Pokemon en versión hembra (si es que existe como por ejemplo Pikachu (número 25), en caso de no tenerla, la imagen rebota.
 
 -Puede mostrar la imagen del Pokemon en versión shiny.
 
