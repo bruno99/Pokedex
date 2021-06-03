@@ -10,7 +10,7 @@ Hemos utilizado la API https://pokeapi.co/ para este proyecto.
 ## Nuestra Pokedex tiene las siguientes funcionalidades:
 -Un buscador por número de la Pokedex (1 al 807). En caso de que se introduzca 0 o más de 807 rebota la imagen indicando un error.
 
--Unas flechas para navegar por la Pokedex en orden de número.
+-Unas flechas para navegar por la Pokedex en orden ascendente y descendiente.
 
 -Muestra el nombre, número y foto del Pokemon seleccionado.
 
