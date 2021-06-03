@@ -3,7 +3,7 @@
 ## Para iniciar el proyecto
 ### Utilice npm start
 
-Hemos decidido diseñar lo más parecido a una Pokedex, que está inspirado en uno de los juegos de Pokemon.
+Hemos decidido diseñar lo más parecido a una Pokedex, que está inspirado en los juegos de Pokemon.
 
 Hemos usado la API https://pokeapi.co/ para este trabajo.
 
