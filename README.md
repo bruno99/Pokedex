@@ -1,7 +1,7 @@
 # Pokedex
 
 ## Para iniciar el proyecto
-### Utilice npm start 
+### Utilice npm install 
 Para que se cree la carpeta node_modules
 ### Utilice npm start
 
