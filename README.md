@@ -1,6 +1,8 @@
 # Pokedex
 
 ## Para iniciar el proyecto
+### Utilice npm start 
+Para que se cree la carpeta node_modules
 ### Utilice npm start
 
 Hemos decidido diseñar lo más parecido a una Pokedex, que está inspirado en los juegos de Pokemon.
