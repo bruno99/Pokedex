@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/43136555/120624941-793f5e80-c461-11eb-995c-d396ef5919c5.mp4
+
 # Pokedex
 
 ## Para iniciar el proyecto
